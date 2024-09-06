@@ -15,7 +15,9 @@ const About = () => {
         <p className='mt-20 text-xl'> 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tristique dui et dapibus lobortis. Vivamus semper, augue vel congue rutrum, velit nibh lobortis eros, eget blandit risus nisl ac lectus. Nam dictum libero vitae velit convallis, ut rhoncus quam tincidunt. Quisque quis dolor quis enim auctor maximus id sit amet arcu. Nunc rutrum rhoncus magna non lacinia.
         </p>
-        
+
+        <br />
+
         <p className='mt-20 text-xl'> 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tristique dui et dapibus lobortis. Vivamus semper, augue vel congue rutrum, velit nibh lobortis eros, eget blandit risus nisl ac lectus. Nam dictum libero vitae velit convallis, ut rhoncus quam tincidunt. Quisque quis dolor quis enim auctor maximus id sit amet arcu. Nunc rutrum rhoncus magna non lacinia.
         </p>
